@@ -1,0 +1,9 @@
+CREATE DATABASE banco;
+
+USE banco;
+
+CREATE DATABASE banco2;
+
+USE banco2;
+
+DROP DATABASE banco2;
